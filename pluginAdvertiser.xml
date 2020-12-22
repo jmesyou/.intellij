@@ -101,6 +101,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bnf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.grammar" />
+              <option name="myPluginName" value="Grammar-Kit" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -233,6 +241,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.flex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.grammar" />
+              <option name="myPluginName" value="Grammar-Kit" />
             </plugin>
           </value>
         </entry>
